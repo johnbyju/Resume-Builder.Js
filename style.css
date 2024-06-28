@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&family=Poppins:wght@200;300;400;500&display=swap');
+body 
+    {
+      background-image: linear-gradient(to right top, #358087, #33866f, #5b8749, #8d8028, #c06d2d);
+      color: #fff;
+      font-family: 'Pirata One', cursive;
+    }
+    .btn-primary 
+    {
+      background-color: #4D4D85;
+      border-color: #4D4D85;
+      font-family: 'Pirata One', cursive;
+    }
+    .btn-primary:hover 
+    {
+      background-color:#963838;
+      border-color:#963838;
+      font-family: 'Pirata One', cursive;
+    }
+    hr
+    {
+      background-color: aliceblue;
+      height: 3px;
+    }
